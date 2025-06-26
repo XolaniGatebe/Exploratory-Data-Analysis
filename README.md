@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 2. **Install Dependencies**:
    ```bash
-   pip install jupyter pandas numpy seaborn matplotlib
+   pip install jupyter pandas numpy seaborn matplotlib scipy missingno mlxtend
    
 3. **Download the dataset**:
    - Obtain the Titanic dataset (e.g., from Kaggle) and save it as titanic.csv in the project directory.
